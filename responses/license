@@ -1,0 +1,18 @@
+{
+    "offline": false,
+    "license": "pro",
+    "expire": null,
+    "created": "2023-09-15T09:43:15.735Z",
+    "registered": "2019-08-30T09:10:53.874Z",
+    "legacy": false,
+    "deactivated": false,
+    "quotas": {
+        "pro": -1,
+        "free": -1
+    },
+    "metadata": {},
+    "isExpired": false,
+    "daysLeft": null,
+    "userType": "Subscriber",
+    "userStatus": "Active"
+}
